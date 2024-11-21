@@ -1,0 +1,3 @@
+The Pig Game is a simple, fun dice game for two or more players. The goal is to be the first player to reach a predetermined score (e.g., 100 points). Players take turns rolling a die to accumulate points, but there’s a twist—rolling a 1 ends the turn and forfeits the points accumulated during that turn.
+This project implements the Pig Game using HTML, CSS, and JavaScript.
+It features Turn-Based Gameplay: Alternate turns between two players. Score Management: Keep track of current and total scores. Risk vs Reward: Players can roll the dice as many times as they want, but rolling a 1 results in losing the turn’s score. Winning Condition: The first player to reach the target score (default 100) wins the game.
